@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-width: 300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+#input-el{
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 0 10px;
+    border: green solid 1px;
+
+
+
+}
+
+#input-btn{
+    background: #05e66a;
+    border: none;
+    color: bisque;
+    padding: 10px 20px;
+    font-weight: 600;
+    margin: 20px;
+    
+}
+
+#delete-btn{
+    background: #edf0ee;
+    border: 3px solid gray;
+    color: #05e66a;
+    padding: 10px 20px;
+    font-weight: 600;
+    margin: 20px;
+   
+    
+    
+}
+
+#save-tab{
+    background: #05e66a;
+    border: none;
+    color: bisque;
+    padding: 10px 20px;
+    font-weight: 600;
+    margin: 20px;
+    
+}
+
+#ulEl{
+    margin-left: 20px;
+}
+
+li{
+    list-style: none;
+}
+a{
+    color: #05e66a;
+}
